@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
-# cabral 
+git_source(:github) { |repo| "https://github.com/#{repo}.git" } 
 # chaves
 ruby '2.5.3'
 
